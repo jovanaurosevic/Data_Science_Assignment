@@ -3,126 +3,126 @@ This repository contains the following raw data extracted from Donald Trump's pu
 
 
 user_timelines:
-  .contributors
-  .truncated
-  .text
-  .is_quote_status
-  .in_reply_to_status_id
-  .id
-  .favorite_count
-  .source
-  .retweeted
-  .coordinates
-  .entities
-  .in_reply_to_screen_name
-  .in_reply_to_user_id
-  .retweet_count
-  .id_str
-  .favorited
-  .user
-  .geo
-  .in_reply_to_user_id_str
-  .possibly_sensitive
-  .lang
-  .created_at
-  .in_reply_to_status_id_str
-  .place
-  .extended_entities
+  - contributors
+  - truncated
+  - text
+  - is_quote_status
+  - in_reply_to_status_id
+  - id
+  - favorite_count
+  - source
+  - retweeted
+  - coordinates
+  - entities
+  - in_reply_to_screen_name
+  - in_reply_to_user_id
+  - retweet_count
+  - id_str
+  - favorited
+  - user
+  - geo
+  - in_reply_to_user_id_str
+  - possibly_sensitive
+  - lang
+  - created_at
+  - in_reply_to_status_id_str
+  - place
+  - extended_entities
 
 followers:
-  .follow_request_sent
-  .has_extended_profile
-  .profile_use_background_image
-  .live_following
-  .default_profile_image
-  .id
-  .profile_background_image_url_https
-  .translator_type
-  .verified
-  .blocked_by
-  .profile_text_color
-  .muting
-  .profile_image_url_https
-  .profile_sidebar_fill_color
-  .entities
-  .followers_count
-  .profile_sidebar_border_color
-  .id_str
-  .profile_background_color
-  .listed_count
-  .status
-  .is_translation_enabled
-  .utc_offset
-  .statuses_count
-  .description
-  .friends_count
-  .location
-  .profile_link_color
-  .profile_image_url
-  .following
-  .geo_enabled
-  .profile_banner_url
-  .blocking
-  .profile_background_image_url
-  .screen_name
-  .lang
-  .profile_background_tile
-  .favourites_count
-  .name
-  .notifications
-  .url
-  .created_at
-  .contributors_enabled
-  .time_zone
-  .protected
-  .default_profile
-  .is_translator
+  - follow_request_sent
+  - has_extended_profile
+  - profile_use_background_image
+  - live_following
+  - default_profile_image
+  - id
+  - profile_background_image_url_https
+  - translator_type
+  - verified
+  - blocked_by
+  - profile_text_color
+  - muting
+  - profile_image_url_https
+  - profile_sidebar_fill_color
+  - entities
+  - followers_count
+  - profile_sidebar_border_color
+  - id_str
+  - profile_background_color
+  - listed_count
+  - status
+  - is_translation_enabled
+  - utc_offset
+  - statuses_count
+  - description
+  - friends_count
+  - location
+  - profile_link_color
+  - profile_image_url
+  - following
+  - geo_enabled
+  - profile_banner_url
+  - blocking
+  - profile_background_image_url
+  - screen_name
+  - lang
+  - profile_background_tile
+  - favourites_count
+  - name
+  - notifications
+  - url
+  - created_at
+  - contributors_enabled
+  - time_zone
+  - protected
+  - default_profile
+  - is_translator
 
 friends:
-  .follow_request_sent
-  .has_extended_profile
-  .profile_use_background_image
-  .live_following
-  .default_profile_image
-  .id
-  .profile_background_image_url_https
-  .translator_type
-  .verified
-  .blocked_by
-  .profile_text_color
-  .muting
-  .profile_image_url_https
-  .profile_sidebar_fill_color
-  .entities
-  .followers_count
-  .profile_sidebar_border_color
-  .id_str
-  .profile_background_color
-  .listed_count
-  .status
-  .is_translation_enabled
-  .utc_offset
-  .statuses_count
-  .description
-  .friends_count
-  .location
-  .profile_link_color
-  .profile_image_url
-  .following
-  .geo_enabled
-  .profile_banner_url
-  .blocking
-  .profile_background_image_url
-  .screen_name
-  .lang
-  .profile_background_tile
-  .favourites_count
-  .name
-  .notifications
-  .url
-  .created_at
-  .contributors_enabled
-  .time_zone
-  .protected
-  .default_profile
-  .is_translator
+  - follow_request_sent
+  - has_extended_profile
+  - profile_use_background_image
+  - live_following
+  - default_profile_image
+  - id
+  - profile_background_image_url_https
+  - translator_type
+  - verified
+  - blocked_by
+  - profile_text_color
+  - muting
+  - profile_image_url_https
+  - profile_sidebar_fill_color
+  - entities
+  - followers_count
+  - profile_sidebar_border_color
+  - id_str
+  - profile_background_color
+  - listed_count
+  - status
+  - is_translation_enabled
+  - utc_offset
+  - statuses_count
+  - description
+  - friends_count
+  - location
+  - profile_link_color
+  - profile_image_url
+  - following
+  - geo_enabled
+  - profile_banner_url
+  - blocking
+  - profile_background_image_url
+  - screen_name
+  - lang
+  - profile_background_tile
+  - favourites_count
+  - name
+  - notifications
+  - url
+  - created_at
+  - contributors_enabled
+  - time_zone
+  - protected
+  - default_profile
+  - is_translator
