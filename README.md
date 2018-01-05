@@ -2,7 +2,7 @@
 This repository contains the following raw data extracted from Donald Trump's public Twitter account: tweets, followers, friends (twitter profiles that are followed by DT). Each of these was stored in the corresponding folders with each instance (user, tweet) in a separate json file named using its unique twitter id.
 
 
-user_timelines:
+## Json parameters of "tweets" files:
   - contributors
   - truncated
   - text
@@ -29,7 +29,8 @@ user_timelines:
   - place
   - extended_entities
 
-followers:
+
+## Json parameters of "followers" files:
   - follow_request_sent
   - has_extended_profile
   - profile_use_background_image
@@ -78,7 +79,8 @@ followers:
   - default_profile
   - is_translator
 
-friends:
+
+## Json parameters of "friends" files:
   - follow_request_sent
   - has_extended_profile
   - profile_use_background_image
